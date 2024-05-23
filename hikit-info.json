@@ -1,10 +1,11 @@
 {
     "name": "hotkey",
     "owner": "Cosmade",
+    "contact": "deepskystar@outlook.com",
     "desc": "For easy define hotkey.",
     "version": "1.0.0",
     "type": "app",
-    "remote": "https://github.com:DeepSkyStar/hotkey.git",
+    "remote": "https://github.com/DeepSkyStar/hotkey.git",
     "is_default" : false,
     "commands":[
         "hotkey"
